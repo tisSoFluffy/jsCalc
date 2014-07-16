@@ -1,0 +1,45 @@
+#one{
+	float:left;
+}
+#two{
+	float:left;
+}
+#three{
+	float:left;
+}
+#column_1{
+	width:500px;
+	clear:left;
+}
+#column_2{
+	width:500px;
+	position: relative;
+	clear:left;
+}
+#column_3{
+	width:500px;
+	position: relative;
+	clear:left;
+}
+.total{
+	float:left;
+	width:50px;
+	padding-left: 10px;
+}
+.display{
+	float:left;
+	width:50px;
+}
+button{
+	width: 30px;
+	height:30px;
+}
+
+#screen{
+	text-align: center;
+	height: 60px;
+	width:9%;
+	padding-top: 5px;
+	padding-left: 5px;
+	background-color: pink;
+}
